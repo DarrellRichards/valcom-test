@@ -25,3 +25,8 @@ We want the ability to GET, CREATE, UPDATE and DELETE projects, to obtain this g
     "project_type": [],
     "labels": []
 }
+
+# Design Layout Ideas (Not required!)
+
+[logo]: https://cdn.dribbble.com/users/1334861/screenshots/6773387/sales_orders_list_2x.png
+![alt text][logo]
